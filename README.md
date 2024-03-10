@@ -23,5 +23,5 @@ This repository contains Python code to solve the 8-puzzle problem using various
 
 1. Clone this repository to your local machine.
 2. Open a terminal and navigate to the cloned directory.
-3. Run the Python script `puzzle_solver.py` using the command `python puzzle_solver.py`.
+3. Run the Python script `8PuzzleSolver.py` using the command `python 8PuzzleSolver.py`.
 4. Follow the on-screen instructions to select the desired algorithm and input the initial and goal states of the puzzle.
